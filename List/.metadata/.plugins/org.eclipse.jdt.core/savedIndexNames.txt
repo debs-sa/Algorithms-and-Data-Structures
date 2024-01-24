@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\debor\OneDrive\Desktop\Estudos\Winter 2024\Algorithms\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2097623647.index
